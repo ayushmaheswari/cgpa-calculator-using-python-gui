@@ -218,7 +218,6 @@ def reset():
 win=Tk()
 win.geometry("680x750")
 win.title('Cgpa Calculator')
-win.iconbitmap(r'calc_cSe_icon.ico')
 win.configure(bg='#00ffcc')
 
 db = sqlite3.connect('mysql.db')
