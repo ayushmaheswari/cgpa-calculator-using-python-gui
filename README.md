@@ -1,4 +1,1 @@
-# cgpa
-cgpa calculator made in python gui using tkinter
-<br>
-<a href="cgpa.py">cgpa calculator link</a>
+cgpa calculator is a python based gui in this project we have 2 term contain six subject each and after calculating cgpa this will send data to mysql db with encription and fatch data with decription.
